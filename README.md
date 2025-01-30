@@ -55,7 +55,8 @@ Changelog 1.0.7
 
 Changelog 1.0.6
 -Fixed selecting spells for Tressym locking game
--Other small improvements
+-Other small improvements[shardmod100.zip](https://github.com/user-attachments/files/18595887/shardmod100.zip)
+
 
 Changelog 1.0.5
 -Added 'Zoomy Claws' Passive: Your swipes are very quick. Apply your dexterity modifier instead of strength to unarmed attacks.
